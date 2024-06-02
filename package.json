@@ -9,7 +9,6 @@
   },
   "homepage": "https://marcovoliveira.github.io/react-svg-credit-card-payment-icons",
   "main": "dist/index.js",
-  "module": "dist/index.esm.js",
   "types": "dist/index.d.ts",
   "files": [
     "dist"
